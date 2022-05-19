@@ -1,0 +1,6 @@
+C:/Users/royri/Downloads/Object Detection Using YOLO/Labelled-Custom/04497f7b9b9ff84f.jpg
+C:/Users/royri/Downloads/Object Detection Using YOLO/Labelled-Custom/04db4d480a917fa5.jpg
+C:/Users/royri/Downloads/Object Detection Using YOLO/Labelled-Custom/113fe5bfa24e4478.jpg
+C:/Users/royri/Downloads/Object Detection Using YOLO/Labelled-Custom/1983c9b1f0c38020.jpg
+C:/Users/royri/Downloads/Object Detection Using YOLO/Labelled-Custom/2089dc1e846ace8e.jpg
+C:/Users/royri/Downloads/Object Detection Using YOLO/Labelled-Custom/211244c9e8002e1f.jpg

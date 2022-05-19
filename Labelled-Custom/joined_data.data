@@ -1,0 +1,5 @@
+classes = 18
+train = C:/Users/royri/Downloads/Object Detection Using YOLO/Labelled-Custom/train.txt
+valid = C:/Users/royri/Downloads/Object Detection Using YOLO/Labelled-Custom/test.txt
+names = C:/Users/royri/Downloads/Object Detection Using YOLO/Labelled-Custom/classes.names
+backup = backup

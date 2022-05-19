@@ -1,0 +1,5 @@
+classes = 16
+train = C:/Users/royri/Downloads/Object Detection Using YOLO/Label Videos/train.txt
+valid = C:/Users/royri/Downloads/Object Detection Using YOLO/Label Videos/test.txt
+names = C:/Users/royri/Downloads/Object Detection Using YOLO/Label Videos/classes.names
+backup = backup
